@@ -2,7 +2,7 @@
 Este proyecto nos permite identificar si un humano es mutante o no mediante su secuencia de ADN. La API detecta si un humano es mutante o no analizando la matriz, y si esta encuentra más de una secuencia de cuatro letras iguales, ya sea de forma horizontal, oblicua o vertical, entonces es un mutante.
 
 ## Nivel 1
-Este programa fue hecho con Java
+Este programa fue hecho con Java en intelij idea
 
 ## Nivel 2
 API REST para detectar mutantes, en Render: https://parcialdesarrollomercadolibre.onrender.com/
